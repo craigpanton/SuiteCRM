@@ -763,6 +763,11 @@ $mod_strings = array(
     'LBL_OAUTH2_CLIENTS_TITLE' => 'OAuth2 Clients and Tokens',
     'LBL_OAUTH2_CLIENTS' => 'Manage which clients have access to the OAuth2 Server and view session log and revoke active sessions',
 
+    // HTML Filter
+    'LBL_HTML_FILTER_TITLE' => 'HTML Filter',
+    'LBL_HTML_FILTER' => 'Manage HTML filter configuration.',
+
+
     //Sprites Support
     'LBL_SPRITES_NOT_SUPPORTED' => 'Error: Unable to create sprites because the imagecreatetruecolor function cannot be loaded',
     'LBL_SPRITES_CREATING_NAMESPACE' => 'Creating sprite namespace {0}',

@@ -111,6 +111,14 @@ $admin_option_defs['Administration']['oauth2_clients'] = array(
     'password'
 );
 
+$admin_option_defs['Administration']['html_filter'] = array(
+    'HTML Filter',
+    'LBL_HTML_FILTER_TITLE',
+    'LBL_HTML_FILTER',
+    './index.php?module=OAuth2Clients&action=index',
+    'password'
+);
+
 $admin_group_header[]= array('LBL_ADMINISTRATION_HOME_TITLE','',false,$admin_option_defs, 'LBL_ADMINISTRATION_HOME_DESC');
 
 
